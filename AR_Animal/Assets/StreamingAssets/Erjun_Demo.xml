@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="xionglu" size="1.000000 0.750000" />
+    <ImageTarget name="shizi" size="1.000000 0.750000" />
+    <ImageTarget name="ma" size="1.000000 0.750000" />
+    <ImageTarget name="lingyang" size="1.000000 0.750000" />
+    <ImageTarget name="laohu" size="1.000000 0.750000" />
+    <ImageTarget name="lang" size="1.000000 0.750000" />
+    <ImageTarget name="huli" size="1.000000 0.750000" />
+    <ImageTarget name="baozi" size="1.000000 0.750000" />
+    <ImageTarget name="banma" size="1.000000 0.750000" />
+    <ImageTarget name="daxiang" size="1.000000 0.750000" />
+    <ImageTarget name="608345529186171397" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
